@@ -13,10 +13,10 @@ take an snap for acting model. and convert it to stl (printable 3d) file
 
 ## Usage
 
-![img0](images\img0.png)
+![img0](https://raw.githubusercontent.com/HinxVietti/FantacyRealSTL/images/img0.png)
 
-![image_03](images\image_03.png)
+![image_03](https://raw.githubusercontent.com/HinxVietti/FantacyRealSTL/main/images/image_03.png)
 
-![image_02](images\image_02.png)
+![image_02](https://raw.githubusercontent.com/HinxVietti/FantacyRealSTL/main/images/image_02.png)
 
-![image_01](images\image_01.png)
+![image_01](https://raw.githubusercontent.com/HinxVietti/FantacyRealSTL/main/images/image_01.png)
