@@ -2,5 +2,10 @@
 [Ll]ogs
 [Pp]rojectSettings
 [Tt]emp
+[Oo]bj
+
+.vs
+*.csproj
+*.sln
 
 
