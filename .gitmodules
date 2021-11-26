@@ -1,0 +1,3 @@
+[submodule "SampleProject/Assets/stl_sharp"]
+	path = SampleProject/Assets/stl_sharp
+	url = git@github.com:HinxVietti/STL-Sharp.git
